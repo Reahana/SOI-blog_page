@@ -45,11 +45,17 @@ width: 75%;
 
 .card img{
 	width: 100%;
+	
 }
 
 
 .right-column .card img{
 	margin-bottom: 10px;
+	
+
+}
+.about{
+	border: 2px solid black;
 }
 
 
