@@ -47,7 +47,17 @@ width: 75%;
 	width: 100%;
 	
 }
-
+.btn{
+    padding: 8px 10px;
+    color: crimson;
+    font-size: 15px;
+    font-weight: 500;
+	border: 1px;
+}
+.btn:hover {
+	background: crimson;
+	color: #ffffff;
+}
 
 .right-column .card img{
 	margin-bottom: 10px;
@@ -58,6 +68,16 @@ width: 75%;
 	border: 2px solid black;
 }
 
+.social a {
+	padding: 12px;
+	padding-left: 14px;
+	padding-right: 15px;
+	font-size: 30px;
+	color: crimson;
+} 
+.social a:hover{
+	color:#000000;
+}
 
 footer{
 	background-color: #dddddd;
