@@ -2,4 +2,4 @@
 Static blog page for SOI
 
 
-https://reahana.github.io/SOI-blog_page/blog-layout.html
+https://reahana.github.io/SOI-blog_page/Blog_Page/blog-layout.html
